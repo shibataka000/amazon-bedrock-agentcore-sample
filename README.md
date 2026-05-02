@@ -1,4 +1,4 @@
-# AgentCore Project
+# Butler
 
 This project was created with the [AgentCore CLI](https://github.com/aws/agentcore-cli).
 
